@@ -1,0 +1,12 @@
+C:\Users\justi\OneDrive\Desktop\College Semester 2\ASP.net\JustinBrierleyChatApp\Shared\bin\Debug\net6.0\JustinBrierleyChatApp.Shared.deps.json
+C:\Users\justi\OneDrive\Desktop\College Semester 2\ASP.net\JustinBrierleyChatApp\Shared\bin\Debug\net6.0\JustinBrierleyChatApp.Shared.dll
+C:\Users\justi\OneDrive\Desktop\College Semester 2\ASP.net\JustinBrierleyChatApp\Shared\bin\Debug\net6.0\JustinBrierleyChatApp.Shared.pdb
+C:\Users\justi\OneDrive\Desktop\College Semester 2\ASP.net\JustinBrierleyChatApp\Shared\obj\Debug\net6.0\JustinBrierleyChatApp.Shared.csproj.AssemblyReference.cache
+C:\Users\justi\OneDrive\Desktop\College Semester 2\ASP.net\JustinBrierleyChatApp\Shared\obj\Debug\net6.0\JustinBrierleyChatApp.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\justi\OneDrive\Desktop\College Semester 2\ASP.net\JustinBrierleyChatApp\Shared\obj\Debug\net6.0\JustinBrierleyChatApp.Shared.AssemblyInfoInputs.cache
+C:\Users\justi\OneDrive\Desktop\College Semester 2\ASP.net\JustinBrierleyChatApp\Shared\obj\Debug\net6.0\JustinBrierleyChatApp.Shared.AssemblyInfo.cs
+C:\Users\justi\OneDrive\Desktop\College Semester 2\ASP.net\JustinBrierleyChatApp\Shared\obj\Debug\net6.0\JustinBrierleyChatApp.Shared.csproj.CoreCompileInputs.cache
+C:\Users\justi\OneDrive\Desktop\College Semester 2\ASP.net\JustinBrierleyChatApp\Shared\obj\Debug\net6.0\JustinBrierleyChatApp.Shared.dll
+C:\Users\justi\OneDrive\Desktop\College Semester 2\ASP.net\JustinBrierleyChatApp\Shared\obj\Debug\net6.0\refint\JustinBrierleyChatApp.Shared.dll
+C:\Users\justi\OneDrive\Desktop\College Semester 2\ASP.net\JustinBrierleyChatApp\Shared\obj\Debug\net6.0\JustinBrierleyChatApp.Shared.pdb
+C:\Users\justi\OneDrive\Desktop\College Semester 2\ASP.net\JustinBrierleyChatApp\Shared\obj\Debug\net6.0\ref\JustinBrierleyChatApp.Shared.dll
